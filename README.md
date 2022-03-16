@@ -1,6 +1,6 @@
 # applied-computational-intelligence
 
-## Conjunto de Dados: 
+## Conjunto de Dados
 [Dataset: Job Change of Data Scientists](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists 
 )
 
