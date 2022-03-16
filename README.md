@@ -1,5 +1,9 @@
 # applied-computational-intelligence
 
+## Conjunto de Dados: 
+[Dataset: Job Change of Data Scientists](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists 
+)
+
 ## Homework 1 - Data Analysis
 Este trabalho trata do pré-processamento de dados para a predição de mudança de emprego de cientistas de dados através de modelos estatísticos, investigando seus preditores e a relação entre eles, assim escolhendo os melhores parâmetros para o modelo.
 
